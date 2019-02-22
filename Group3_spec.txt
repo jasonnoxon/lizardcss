@@ -1,0 +1,2 @@
+Pure 5 column Grid
+Small - phone, medium - tablet, large - desktop
