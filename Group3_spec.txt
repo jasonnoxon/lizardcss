@@ -1,2 +1,6 @@
 Pure 5 column Grid
 Small - phone, medium - tablet, large - desktop
+media queries - determine breakpoints
+                 Font size for breakpoints
+                 hidden elements?
+                 Orientation: portrait/landscape?
