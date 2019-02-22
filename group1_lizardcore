@@ -1,0 +1,34 @@
+Group 1 - Core Elements
+
+body
+headings
+paragraphs
+navigation
+lists
+tables
+  -tr
+  -td
+  -thead
+  -th
+  -tbody
+  -tfooter
+footers
+quotes
+* - html (all elements)
+anchor tags
+images
+captions
+divs
+
+inputs
+  - buttons
+  - checkbox
+  - email
+  - password
+  - textfield
+  - search field
+  - address
+  - radio button
+  - range
+
+style: wait for nick to pick style
