@@ -1,6 +1,7 @@
 /* For mobile phones: */
 [class*="col-"] {
   width: 100%;
+  box-sizing: border-box;
 }
 
 @media only screen and (min-width: 600px) {
