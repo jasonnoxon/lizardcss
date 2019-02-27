@@ -43,3 +43,39 @@ ul li a {
 ul li a:hover {
 	color: ;
 }
+
+
+
+
+
+.container {
+ 	width: ;
+ 	margin: ;
+ 	display: ;
+ 	float-direction: ;
+ 	flex-wrap: ;
+}
+
+.container .box {
+	position: ;
+	width: ;
+	height: ;
+	background: ;
+	margin: ;
+	box-sizing: ;
+	display: ;
+}
+
+.container .box .imgBox {
+	position: ;
+	overflow: ;
+}
+
+.container .box .imgBox img {
+	max-width: ;
+	transition: ;
+}
+
+.container .box:hover .imgBox img {
+	transform: ;
+}
