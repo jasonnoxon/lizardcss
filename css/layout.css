@@ -1,7 +1,13 @@
+[class*="col-"] {
+  box-sizing: border-box;
+  float: left;
+}
+.clearfix{
+ clear: both;
+}
 /* For mobile phones: */
 [class*="col-"] {
   width: 100%;
-  box-sizing: border-box;
 }
 
 @media only screen and (min-width: 600px) {
