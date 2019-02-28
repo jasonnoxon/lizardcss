@@ -2,8 +2,10 @@
   box-sizing: border-box;
   float: left;
 }
-.clearfix{
- clear: both;
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 /* For mobile phones: */
 [class*="col-"] {
