@@ -1,0 +1,27 @@
+{
+  "name": "lizardcss",
+  "version": "1.0.0",
+  "description": "A simple CSS Library",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonnoxon/lizardcss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonnoxon/lizardcss/issues"
+  },
+  "homepage": "https://github.com/jasonnoxon/lizardcss#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-sourcemaps": "^2.6.5"
+  }
+}
