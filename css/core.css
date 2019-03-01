@@ -59,7 +59,7 @@ h6 {
 }
 
 img {
-	border: none;
+	border: 5px solid #8314CB;
 	border-radius: 30%;
 	padding: 0px;
 	height: 300px;
