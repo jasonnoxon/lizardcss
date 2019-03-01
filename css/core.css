@@ -58,6 +58,27 @@ h6 {
 	border: none;
 }
 
+
+ul.a {
+  list-style-type: circle;
+}
+
+ul.b {
+  list-style-type: square;
+}
+
+ol.c {
+  list-style-type: upper-roman;
+}
+
+ol.d {
+  list-style-type: lower-alpha;
+}
+
+ul {
+  list-style-image: url('jason_button');
+}
+
 img {
 	border: 5px solid #8314CB;
 	border-radius: 30%;
