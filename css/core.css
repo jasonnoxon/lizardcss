@@ -89,12 +89,14 @@ tr.hover {
 }
 
 td {
-	color: ;
+	background-color: #14C83E;
+	text-align: center;
+	padding: 10px;
 	border: 5px dotted #000000;
 }
 
 thead {
-	color: ;
+	background-color: #8314C8;
 	border: 2px solid #000000 ;
 }
 
