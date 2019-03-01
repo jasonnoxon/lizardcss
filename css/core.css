@@ -72,14 +72,14 @@ img.hover {
 
 table {
 	border-collapse: none ;
-	height: ;
-	width: ;
-	margin: ;
+	height: 600px;
+	width: 600px;
+	margin: 30px;
 }
 
 tr {
-	color: ;
-	border: ;
+	color: #8314C8;
+	border: 2px solid #000000;
 	width: ;
 	padding: ;
 }
