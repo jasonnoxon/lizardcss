@@ -4,6 +4,13 @@
 	box-sizing: inherit;
 }
 
+body {
+
+	padding: 5px;
+	margin: 0px;
+
+}
+
 h1 {
 	color: #000000;
 	font-family: verdana, arial, sans-serif;
@@ -58,6 +65,7 @@ h6 {
 	border: none;
 }
 
+<<<<<<< HEAD
 
 ul.a {
   list-style-type: circle;
@@ -89,6 +97,13 @@ img {
 
 img.hover {
 	  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+=======
+p {
+	font-family: verdana, arial, sans-serif;
+	font-size: 12px;
+	padding: 10px;
+	margin: 10px;
+>>>>>>> 6a97b75bdd75d1cf05edf5a52d785a7ba3156332
 }
 
 table {
