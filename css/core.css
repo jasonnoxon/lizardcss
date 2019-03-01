@@ -66,6 +66,7 @@ h6 {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ul.a {
   list-style-type: circle;
@@ -98,11 +99,14 @@ img {
 img.hover {
 	  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 =======
+=======
+>>>>>>> 7cd88cb1b7646022d237ab5ebdbc647ae25b7b65
 p {
 	font-family: verdana, arial, sans-serif;
 	font-size: 12px;
 	padding: 10px;
 	margin: 10px;
+<<<<<<< HEAD
 >>>>>>> 6a97b75bdd75d1cf05edf5a52d785a7ba3156332
 }
 
@@ -149,4 +153,6 @@ tfoot {
 	color: ;
 	border: ;
 	padding: ;
+=======
+>>>>>>> 7cd88cb1b7646022d237ab5ebdbc647ae25b7b65
 }
