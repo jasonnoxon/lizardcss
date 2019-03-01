@@ -58,6 +58,30 @@ h6 {
 	border: none;
 }
 
+<<<<<<< HEAD
+=======
+
+ul.a {
+  list-style-type: circle;
+}
+
+ul.b {
+  list-style-type: square;
+}
+
+ol.c {
+  list-style-type: upper-roman;
+}
+
+ol.d {
+  list-style-type: lower-alpha;
+}
+
+ul {
+  list-style-image: url('jasonbutton');
+}
+
+>>>>>>> fc068eeb43b2d13d5e329dda5a000192c06d9879
 img {
 	border: 5px solid #8314CB;
 	border-radius: 30%;

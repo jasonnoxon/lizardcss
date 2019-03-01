@@ -1,0 +1,11 @@
+tr {
+  height: 60px;
+  /* background-color: blue; */
+
+}
+th, td{
+  border-bottom: 1px solid black;
+}
+table{
+  border-collapse: collapse;
+}
