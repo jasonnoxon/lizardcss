@@ -5,61 +5,55 @@
 }
 
 h1 {
-	color: ;
-	font-family ;
-	font-size: ;
-	margin ;
-	padding ;
-	border: ;
-	border-color: ;
+	color: #000000;
+	font-family: verdana, arial, sans-serif;
+	font-size: 32px;
+	margin: 10px;
+	padding: 5px;
+	border: none;
 }
 
 h2 {
-	color: ;
-	font-family ;
-	font-size: ;
-	margin ;
-	padding ;
-	border: ;
-	border-color: ;
+	color: #C81414;
+	font-family: verdana, arial, sans-serif;
+	font-size: 26px;
+	margin: 15px;
+	padding: 10px;
+	border: 2px solid #000000;
 }
 
 h3 {
-	color: ;
-	font-family ;
-	font-size: ;
-	margin ;
-	padding ;
-	border: ;
-	border-color: ;
+	color: #149BC8;
+	font-family: verdana, arial, sans-serif;
+	font-size: 18px;
+	margin: 12px;
+	padding: 8px;
+	border: 4px dotted #3DC814;
 }
 
 h4 {
-	color: ;
-	font-family ;
-	font-size: ;
-	margin ;
-	padding ;
-	border: ;
-	border-color: ;
+	color: #14C83E;
+	font-family: verdana, arial, sans-serif;
+	font-size: 14px;
+	margin: 5px;
+	padding: 3px;
+	border: none;
 }
 
 h5 {
-	color: ;
-	font-family ;
-	font-size: ;
-	margin ;
-	padding ;
-	border: ;
-	border-color: ;
+	color: #C814AA;
+	font-family: verdana, arial, sans-serif;
+	font-size: 10px;
+	margin: 0px;
+	padding: 0px;
+	border: 7px dashed;
 }
 
 h6 {
-	color: ;
-	font-family ;
-	font-size: ;
-	margin ;
-	padding ;
-	border: ;
-	border-color: ;
+	color: #8314C8;
+	font-family: verdana, arial, sans-serif;
+	font-size: 8px;
+	margin: 7px;
+	padding: 7px;
+	border: none;
 }
