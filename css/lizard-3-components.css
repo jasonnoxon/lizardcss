@@ -9,3 +9,263 @@ th, td{
 table{
   border-collapse: collapse;
 }
+
+
+
+button:hover {
+  cursor: pointer;
+}
+
+
+
+/* Rounded Gradient Buttons */
+.gradient-button-1 {
+  display: block;
+  color: white;
+  border-radius: 12px;
+  border-style: none;
+  /* background-color: #218c74; */
+  background: linear-gradient(to right, #130f40 , #30336b);
+  padding: 10px 20px;
+  font-size: 16px;
+  letter-spacing: .2px;
+  font-family: 'Lato', sans-serif;
+}
+
+.gradient-button-2 {
+  display: block;
+  color: white;
+  border-radius: 12px;
+  border-style: none;
+  background: linear-gradient(to right, #348AC7 21%, #7474BF 100%);
+  padding: 10px 20px;
+  font-size: 16px;
+  letter-spacing: .2px;
+  font-family: 'Lato', sans-serif;
+}
+/* ************************* */
+
+
+
+/* Rounded Solid Buttons */
+.light-pink-button {
+  display: block;
+  color: #1e272e;
+  border-radius: 12px;
+  border-style: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  letter-spacing: .1px;
+  font-family: 'Francois One', sans-serif;
+  background-color: #ffcccc;
+}
+
+.light-blue-button {
+  color: #1e272e;
+  border-radius: 12px;
+  border-style: none;
+  background-color: #218c74;
+  padding: 10px 20px;
+  font-size: 16px;
+  letter-spacing: .1px;
+  font-family: 'Francois One', sans-serif;
+  background-color: #dff9fb;
+}
+
+/* Hover for Rounded Solid Color Buttons */
+.light-pink-button:hover, .light-blue-button:hover, .blue-gradient-button:hover             {
+  opacity: 0.8;
+}
+/* ************************* */
+
+
+
+/* Rectangular Gradient Buttons */
+.gradient-button-4 {
+  background: none;
+  text-decoration: inherit;
+  font-family: system-ui;
+  font-size: 1rem;
+  padding: 1rem 2rem;
+  border-image: linear-gradient(to right, #b861c6 0%,#ffc7c7 100%);
+  border-image-slice: 1;
+  border-width: 2px;
+}
+
+.gradient-button-3 {
+  display: block;
+  background: none;
+  color: #1e272e;
+  border-image: linear-gradient(to left, #743ad5, #d53a9d);
+  border-image-slice: 1;
+  border-radius: 17px;
+  border-width: 3px;
+  padding: 10px 20px;
+  font-size: 16px;
+  letter-spacing: .1px;
+  font-family: 'Francois One', sans-serif;
+}
+/* ************************* */
+
+
+/* Background Gradient */
+.background-gradient-1 {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  height: 100px;
+  background: linear-gradient(to right, #fab1a0 , #ff9ff3);
+
+}
+/* ************************* */
+
+
+
+/* Radio Button */
+.radio-buttons {
+  cursor: pointer;
+}
+
+.radio-buttons-label {
+  font-family: 'Lato', sans-serif;
+  /* color: linear-gradient(to right, #fab1a0 , #ff9ff3); */
+}
+/* ************************* */
+
+
+
+/* Card */
+.card-1 {
+  background-color: #222f3e;
+  width: 400px;
+  height: 400px;
+  display: block;
+  border-radius: 20px;
+  font-family: 'Lato', sans-serif;
+}
+
+.card-top {
+  text-align: center;
+  padding-top: 30px;
+}
+
+.card-top img {
+  width: 80%;
+}
+
+.card-title {
+  color: #ffeaa7;
+  padding: 0 40px;
+  font-size: 1.3em;
+}
+
+.card-description {
+  color: white;
+  padding: 0 40px;
+}
+/* ************************* */
+
+
+/* Form 1 */
+.sign-in-form-1 {
+  padding: 20px 0;
+  font-family: 'Lato', sans-serif;
+  /* border: 4px solid #222f3e; */
+  background-color: #dff9fb;
+  box-shadow: 4px 4px 8px #AAAAAA;
+  width: 400px;
+
+}
+input[type="email"], input[type="password"] {
+  font-size: 1em;
+  width: 95%;
+  height: 3.5em;
+  outline: none;
+}
+
+.align-submit-1 button[type="submit"] {
+  width: 50%;
+  height: 4em;
+  background-color: white;
+  border-style: none;
+  font-size: 1rem;
+  box-shadow: 4px 4px 8px #AAAAAA;
+}
+
+.align-submit-1 {
+  text-align: center;
+}
+
+fieldset {
+  border-style: none;
+}
+
+input[placeholder="password"], input[placeholder="email"] {
+  font-size: 4em;
+}
+/* ************************* */
+
+
+/* Form 2 */
+.sign-in-form-2 {
+  padding: 20px 0;
+  font-family: 'Lato', sans-serif;
+  /* border: 4px solid #222f3e; */
+  background-color: white;
+  border: 1px solid #DDDDDD;
+  box-shadow: 4px 4px 8px #AAAAAA;
+  width: 400px;
+
+}
+
+input[type="email"], input[type="password"] {
+  width: 95%;
+  height: 4em;
+  font-size: 1em;
+  outline: none;
+  border: 1px solid #DDDDDD;
+}
+
+.align-submit-2 button[class="sign-in-button-2"] {
+  width: 50%;
+  height: 4em;
+  background: linear-gradient(to right, #348AC7 21%, #7474BF 100%);
+  border-style: none;
+  font-size: 1rem;
+  color: white;
+  /* box-shadow: 4px 4px 8px #AAAAAA; */
+}
+
+.align-submit-2 {
+  text-align: center;
+}
+
+fieldset {
+  border-style: none;
+}
+/* ************************* */
+
+
+/* Table */
+table {
+  width: 500px;
+  font-family: 'Lato', sans-serif;
+  background: linear-gradient(to right, #fab1a0 , #ff9ff3);
+
+}
+tr {
+  height: 70px;
+  text-align: center;
+}
+
+td {
+  width: 25%;
+}
+
+tr.darker-row {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+td.bold-row {
+  font-weight: 600;
+}
+/* ************************* */
