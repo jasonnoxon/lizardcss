@@ -269,3 +269,127 @@ td.bold-row {
   font-weight: 600;
 }
 /* ************************* */
+
+body{
+  margin:auto;
+}
+
+li:hover {
+  cursor: pointer;
+}
+
+.fun-nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: linear-gradient(to right, rgb(187, 64, 183) 40%,rgb(132, 99, 232) );
+}
+
+.fun-li {
+  float: left;
+  font-size: 22px;
+  font-family:'Lato', sans-serif;
+}
+
+  li a[class="fun-li"]{
+  display: block;
+  color:rgb(255, 255, 255);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a[class="fun-li"]:hover {
+  background-color:rgb(103, 18, 101);
+
+}
+
+
+/* Copy and paste this for dark nav bar */
+
+.dark-nav{
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow: hidden;
+  background: linear-gradient(to right, rgb(152, 149, 156) 50%,rgb(12, 23, 9) );
+}
+
+.dark-li{
+  float: left;
+  font-size: 22px;
+  font-family: "Lato", sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+
+li a[class="dark-li"]{
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a[class="dark-li"]:hover{
+  background-color: black;
+}
+
+
+/* Copy and paste this for news nav background */
+
+.news-nav{
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow: hidden;
+  background: linear-gradient(to right,rgb(30, 5, 128) 50%, rgb(75, 110, 203));
+}
+
+.news-li{
+  float:left;
+  font-size: 22px;
+  font-family:'Lato', sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+li a[class="news-li"]{
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a[class="news-li"]:hover{
+  background-color: rgb(22, 105, 170);
+}
+
+
+/* Copy and paste for media card */
+
+
+
+.card{
+  display: inline-block;
+  box-shadow: 4px 8px 0 rgba(0, 0, 0, .2);
+  transition: .3s;
+  width: 250px;
+  border-radius: 30px;
+  background-color: grey;
+  color: white;
+  font-family:'Lato',sans-serif;
+}
+
+.card:hover{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
+
+img{
+  width: 100%;
+  padding-top: 25px;
+  border-radius: 30px;
+}
