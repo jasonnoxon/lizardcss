@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,700');
+
+:root {
+		--primary-color: rgb(255,153,51);
+		--secondary-color: rgb(102,204,51);
+		--tertiary-color: rgb(107,107,71);
+		--quaternary-color: rgb(36,143,143);
+		--primary-font: 'Ubuntu 400', Arial, sans-serif;
+		--strong-font: 'Ubuntu 700', Arial, sans-serif;
+}
+
+* {
+	font-family: var(--primary-font);
+}
+
+body {
+
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: var(--strong-font);
+}
